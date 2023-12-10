@@ -51,7 +51,7 @@ python CD_Loop.py -inf [Interaction frequency file path] -nof [norm factor file 
 ```
 [output directory]  Output file saving path
 ```
-There are four subfolders in the output folder
+There are seven subfolders in the output folder
 ```
 /bigmatrix                              Convert interaction frequencies to a large matrix
 
