@@ -75,6 +75,10 @@ There are seven subfolders in the output folder
 | K562 Hi-C | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63525 |
 | IMR90 Hi-C | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63525 |
 | mESC Hi-C | https://data.4dnucleome.org/experiment-set-replicates/4DNESUCLJAZ8 |
+| GM12878 CTCF ChIA-PET | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi |
+| GM12878 RAD21 ChIA-PET | https://www.encodeproject.org/publication-data/ENCSR727WCB |
+| GM12878 H3k27ac HiChIP | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE101498 |
+| GM12878 SMC1 HiCHIP | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE80820 |
 | GM12878 CTCF ChIP-Seq | https://www.encodeproject.org/files/ENCFF963PJY |
 | K562 CTCF ChIP-Seq | https://www.encodeproject.org/files/ENCFF085HTY |
 | IMR-90 CTCF ChIP-Seq | https://www.encodeproject.org/files/ENCFF453XKM |
